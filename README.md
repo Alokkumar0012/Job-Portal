@@ -36,24 +36,6 @@ Review Candidates: See applicant details (Name, Email, Resume Link).
 
 Status Control: Approve or Reject applications with instant status updates.
 
-📸 Screenshots
-
-Landing Page
-
-Job Seeker Dashboard
-
-
-
-
-
-Employer Dashboard
-
-Job Details Modal
-
-
-
-
-
 Note: Please replace the placeholder image links above with actual screenshots of your project for a better presentation.
 
 🛠️ Tech Stack
